@@ -3,6 +3,7 @@
 Bu projede, **pull-down direnci** kullanarak bir **buton ile LED kontrolü** devresi tasarlıyoruz.  
 Butona basılmadığında LED sönük kalır, basıldığında ise yanar.
 
+🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)
   
 🔗 [Tinkercad Tasarımına Göz At](https://www.tinkercad.com/things/6VC6u6ztNCC?sharecode=fSRYD-hk-hK-PczqlwWClPqQV4uEoZL5I_ewJvEp5mc)
 
